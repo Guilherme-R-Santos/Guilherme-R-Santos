@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Guilherme
+- 👀 I’m interested in programming, development and system analysis
+- 🌱 I’m currently learning development in microsoft technologies (C#, .NET, SQL server, Azure...)
+-  ◘  My hobbies includes gaming, reading, tracking and studying
