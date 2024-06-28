@@ -1,4 +1,4 @@
-# Hi there! 👋 I’m Guilherme Santos
+# Hi there! 👋 I’m Guilherme
 ## About Me
 I’m an enthusiastic Assistant Systems working in a social organization. My passion lies in software development, and I’m always eager to learn and explore new technologies. Currently, I’m seeking opportunities as a C# Software Developer.
 
