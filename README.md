@@ -12,6 +12,6 @@ Git: Version control is essential, and Git helps me collaborate effectively.
 ## What I’m Looking For
 I’m actively seeking a role as a Software Developer where I can contribute my skills, learn from experienced professionals, and make a positive impact. If you’re looking for a dedicated team player who’s passionate about coding, let’s connect!
 
-Feel free to reach out to me on LinkedIn or via email at guilherme@example.com.
+Feel free to reach out to me on LinkedIn or via email at guilhermersantos99@outlook.com
 
 Let’s build something amazing together! 🚀
