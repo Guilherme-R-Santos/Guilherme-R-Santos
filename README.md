@@ -1,4 +1,17 @@
-- 👋 Hi, I’m Guilherme
-- 👀 I’m interested in programming, development and system analysis
-- 🌱 I’m currently learning development in microsoft technologies (C#, .NET, SQL server, Azure...)
--  ◘  My hobbies includes gaming, reading, tracking and studying
+# Hi there! 👋 I’m Guilherme Santos
+## About Me
+I’m an enthusiastic Assistant Systems working in a social organization. My passion lies in software development, and I’m always eager to learn and explore new technologies. Currently, I’m seeking opportunities as a C# Software Developer.
+
+## Technologies I Work With
+C#: My go-to language for building robust and efficient applications.
+.NET: I love leveraging the power of the .NET framework to create scalable solutions.
+MySQL: Proficient in designing and managing databases using MySQL.
+Azure: Familiar with cloud services and deployment on Microsoft Azure.
+HTML5, CSS3, and JavaScript: Crafting beautiful and interactive web experiences.
+Git: Version control is essential, and Git helps me collaborate effectively.
+## What I’m Looking For
+I’m actively seeking a role as a Software Developer where I can contribute my skills, learn from experienced professionals, and make a positive impact. If you’re looking for a dedicated team player who’s passionate about coding, let’s connect!
+
+Feel free to reach out to me on LinkedIn or via email at guilherme@example.com.
+
+Let’s build something amazing together! 🚀
