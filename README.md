@@ -17,3 +17,5 @@ Feel free to reach out to me on LinkedIn or via email at guilhermersantos99@outl
 Let’s build something amazing together! 🚀
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-R-Santos&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-R-Santos)](https://github.com/anuraghazra/github-readme-stats)
