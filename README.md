@@ -16,6 +16,6 @@ Feel free to reach out to me on LinkedIn or via email at guilhermersantos99@outl
 
 Let’s build something amazing together! 🚀
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-R-Santos&show_icons=true&theme=tokyonight&card_width=500px) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-R-Santos&show_icons=true&theme=tokyonight&card_width=500px&card_height=350px) 
 ## 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-R-Santos&theme=tokyonight&size_weight=0.5&count_weight=0.5&card_width=500px)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-R-Santos&theme=tokyonight&size_weight=0.5&count_weight=0.5&card_width=500px&card_height=350px)
