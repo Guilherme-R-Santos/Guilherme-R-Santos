@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:5e2a8e,100:2b5797&height=180&section=header&text=Guilherme%20R.%20Santos&fontSize=40&fontColor=fff&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:5e2a8e,100:2b5797&height=180&section=header&text=Guilherme%20Santos&fontSize=40&fontColor=fff&animation=fadeIn)
 
 # 👋 Olá! Eu sou o Guilherme
 
