@@ -2,14 +2,14 @@
 
 # 👋 Olá! Eu sou o Guilherme
 
-> *"Backend Júnior movido a café e soluções robustas com .NET e C#."*
+> *"Desenvolvedor movido a café e soluções robustas com .NET e C#."*
 
 ## 🧑‍💻 Sobre mim
 
-Sou um **Desenvolvedor Backend Júnior** com experiência prática em projetos corporativos e acadêmicos.  
+Sou um **Desenvolvedor Backend** com experiência prática em projetos corporativos e acadêmicos.  
 Atualmente, meu **foco principal** é o ecossistema **.NET + C#**, construindo APIs, microsserviços e integrações confiáveis.
 
-- 🎯 **Atuação atual:** Backend Júnior – criando e mantendo aplicações que realmente fazem a diferença.
+- 🎯 **Atuação atual:** Desenvolvedor Backend – criando e mantendo aplicações que realmente fazem a diferença.
 - 🚀 **Objetivo:** Evoluir como engenheiro de software, dominando arquiteturas escaláveis e boas práticas do mercado.
 - 🤝 **Colaboração:** Aberto a networking, troca de experiências e novos desafios.
 - 📫 **Contato rápido:** [guilhermersantos99@outlook.com](mailto:guilhermersantos99@outlook.com) • [LinkedIn](https://linkedin.com/in/guilherme-r-santos9)
@@ -18,13 +18,13 @@ Atualmente, meu **foco principal** é o ecossistema **.NET + C#**, construindo A
 
 ## 🛠️ Tecnologias que domino no dia a dia
 
-### 🔹 Backend (foco principal)
+### 🔹 Backend
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### 🔹 Frontend & Outros (suporte)
+### 🔹 Frontend & Outros
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
