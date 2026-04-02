@@ -74,6 +74,6 @@ Atualmente, meu **foco principal** é o ecossistema **.NET + C#**, construindo A
 
 ---
 
-*“Código limpo, soluções elegantes e evolução contínua – esse é meu jeito de ser Backend.”* 🚀
+*“Código limpo, soluções elegantes e evolução contínua – esse é meu jeito de ser DEV.”* 🚀
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2b5797,100:5e2a8e&height=100&section=footer)
