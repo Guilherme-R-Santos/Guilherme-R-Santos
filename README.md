@@ -63,16 +63,6 @@ Atualmente, meu **foco principal** é o ecossistema **.NET + C#**, construindo A
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<!-- Link para as estatísticas gerais -->
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Guilherme-R-Santos&show_icons=true&theme=radical&hide_title=true)](https://github.com/Guilherme-R-Santos)
-
-<!-- Link para as linguagens mais usadas -->
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-R-Santos&layout=compact&theme=radical&hide=html,css)](https://github.com/Guilherme-R-Santos)
-
----
-
 ## 📌 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-r-santos9)
